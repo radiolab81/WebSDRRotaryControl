@@ -12,6 +12,6 @@ build.sh -> compiliert das Terminalprogramm term2websdr, als Bindeglied zwischen
 
 build_TwenteSDRBrowser.sh (optional) -> compiliert einen minimalistischen Webbrowser (Webkit) speziell nur für das WebSDR der Uni Twente 
 
-#### Durch Anpassung der Tastaturkommandos in term2websdr.c können prinzipiell andere WebSDRs wie KiwiSDR ebenso über Drehencoder/Taster bedient werden.
+#### Durch Anpassung der Tastaturkommandos in term2websdr.c können prinzipiell andere WebSDRs wie KiwiSDR ebenso über Drehencoder/Taster bedient werden. Auch SDR-Softwares wie HDSDR, SDR# (SDRsharp) und andere können so einfach, schnell und kostengünstig mit einem richtigen Abstimmrad und Funktionsknöpfen erweitert werden.
 
 
