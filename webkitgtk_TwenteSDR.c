@@ -11,7 +11,7 @@ int main(int argc, char* argv[])
     // Initialize GTK+
     gtk_init(&argc, &argv);
 
-    // Create an 800x600 window that will contain the browser instance
+    // Create an 1024x800 window that will contain the browser instance
     GtkWidget *main_window = gtk_window_new(GTK_WINDOW_TOPLEVEL);
     gtk_window_set_default_size(GTK_WINDOW(main_window), 1024, 800);
 
