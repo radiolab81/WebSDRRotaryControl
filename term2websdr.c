@@ -10,6 +10,7 @@
 #include <sys/time.h>
 #include <signal.h>
 
+// use your own preferred speed values for tuning wheel
 #define TUNING_SPEED_SLOW  	30000
 #define TUNING_SPEED_MIDDLE	7500
 #define TUNING_SPEED_FAST       2000
