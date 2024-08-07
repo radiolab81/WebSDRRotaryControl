@@ -2,9 +2,9 @@
 
 Steuerung des WebSDR der Universität Twente (http://websdr.ewi.utwente.nl:8901) mit Drehimpulsgeber (Frequenz, Filterbandbreite). Weitere Einstellungen wie Demodulationsart usw. über Taster ebenfalls umsetzbar.
 
-![titel](https://github.com/BM45/WebSDRRotaryControl/blob/master/pics4www/titel.jpg)
+![titel](https://github.com/radiolab81/WebSDRRotaryControl/blob/master/pics4www/titel.jpg)
 
-![pin](https://github.com/BM45/WebSDRRotaryControl/blob/master/pics4www/arduino_pin.jpg)
+![pin](https://github.com/radiolab81/WebSDRRotaryControl/blob/master/pics4www/arduino_pin.jpg)
 
 /WebSDRControl/WebSDRControl.ino -> Firmware für Arduino, der hier als Bindeglied zwischen Drehimpulsgeber, Taster und PC dient
 
